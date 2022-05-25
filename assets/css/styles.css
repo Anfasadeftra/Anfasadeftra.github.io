@@ -447,7 +447,7 @@ img {
 }
 
 /* ===== MEDIA QUERIES=====*/
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 300px) {
   .home {
     row-gap: 2rem;
   }
